@@ -1,1 +1,1 @@
-# CNN-model-on-fashion-mnist-dataset
+# CNN-model-for-fashion-mnist-dataset
